@@ -11,7 +11,7 @@ Hello there! I'm Abhinav Mishra, an engineering student with a passion for **Art
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently a 5th semester B.Tech student in Artificial Intelligence & Machine Learning  
+- 🎓 Currently a 6th semester B.Tech student in Artificial Intelligence & Machine Learning  
 - 🧠 Strong mathematical background with interest in AI/ML and DSA  
 - 💻 Proficient in **Python, JavaScript, SQL, and basic C++/Java**  
 - 🌱 Learning **Machine Learning, DSA, and System Design**  
