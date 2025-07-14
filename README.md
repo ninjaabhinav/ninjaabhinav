@@ -29,7 +29,7 @@ I’m constantly exploring new technologies that interest me, whether it’s bui
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, JavaScript, C++, SQL  
+- **Languages:** Python, Java, JavaScript, C++, SQL  
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** PHP (basics), Python Flask (learning)  
 - **Tools & Version Control:** Git, GitHub, VS Code  
