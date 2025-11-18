@@ -33,7 +33,8 @@ I’m constantly exploring new technologies that interest me, whether it’s bui
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** PHP (basics), Python Flask (learning)  
 - **Tools & Version Control:** Git, GitHub, VS Code  
-- **Databases:** MySQL, SQLite  
+- **Databases:** MySQL, SQLite
+- **Library:** Numpy, Pandas, MatplotLib, Scikit-Learn, PyTorch(learning)   
 - **Currently Learning:** Machine Learning, System Design, REST APIs  
 
 ---
@@ -41,7 +42,7 @@ I’m constantly exploring new technologies that interest me, whether it’s bui
 ## 🎯 Goals
 
 My short-term goal is to master DSA, system design, and build impactful ML/full-stack projects to get internship-ready.  
-My long-term goal is to become and environmentalist. 
+My long-term goal is to become an environmentalist. 
 
 ---
 
