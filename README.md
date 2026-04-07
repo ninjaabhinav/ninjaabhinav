@@ -11,11 +11,11 @@ Hello there! I'm Abhinav Mishra, an engineering student with a passion for **Art
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently a 7th semester B.Tech student in Artificial Intelligence & Machine Learning  
+- 🎓 Currently a 8th semester B.Tech student in Artificial Intelligence & Machine Learning  
 - 🧠 Strong mathematical background with interest in AI/ML and DSA  
 - 💻 Proficient in **Python, JavaScript, SQL, and basic C++/Java**  
 - 🌱 Learning **Machine Learning, DSA, and System Design**  
-- 📂 Building **real-life ML and full-stack projects** for my portfolio  
+- 📂 Building **real-life ML and GenAI Projects** for my portfolio  
 - ⚡ I love watching anime like **One Piece** 🍖, and I sing sometimes 🎶  
 - 📫 Reach me at: **ninjaabhinav02@gmail.com**
 
@@ -35,7 +35,7 @@ I’m constantly exploring new technologies that interest me, whether it’s bui
 - **Tools & Version Control:** Git, GitHub, VS Code  
 - **Databases:** MySQL, SQLite
 - **Library:** Numpy, Pandas, MatplotLib, Scikit-Learn, PyTorch(learning)   
-- **Currently Learning:** Machine Learning, System Design, REST APIs  
+- **Currently Learning:** Machine Learning, System Design 
 
 ---
 
