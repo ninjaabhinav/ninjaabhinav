@@ -5,7 +5,7 @@
 
 ## 👋 Welcome to My GitHub Profile!
 
-I'm an engineering student specializing in **Artificial Intelligence & Machine Learning**, focused on building practical, end-to-end systems using **Machine Learning and Generative AI**.
+I'm a graduate engineer specialized in **Artificial Intelligence & Machine Learning**, focused on building practical, end-to-end systems using **Machine Learning and Generative AI**.
 
 I care about **real problem-solving**, not just theory—most of my work revolves around applying ML models, LLMs, and data-driven approaches to usable products.
 
@@ -13,13 +13,13 @@ I care about **real problem-solving**, not just theory—most of my work revolve
 
 ## 👨‍💻 About Me
 
-- 🎓 Final year B.Tech student (AI & ML)  
+- 🎓 B.Tech (AI & ML) graduate  
 - 🧠 Strong foundation in mathematics, ML concepts, and problem-solving  
 - 💻 Comfortable with **Python, JavaScript, SQL, C++, and Java**  
 - 🔥 Focused on **Machine Learning, GenAI, and DSA**  
 - 📂 Building **ML + RAG-based applications and deep learning projects**  
 - ⚡ Interested in AI systems that solve real-world problems  
-- 📫 Reach me at: **ninjaabhinav02@gmail.com**
+- 📫 Reach me at: **abhimishra0205@gmail.com**
 
 ---
 
@@ -27,7 +27,7 @@ I care about **real problem-solving**, not just theory—most of my work revolve
 
 - Building **GenAI applications using RAG pipelines**  
 - Developing **ML models for real-world prediction tasks**  
-- Strengthening **DSA + core CS fundamentals** for placements  
+- Strengthening **DSA + core CS fundamentals** 
 
 ---
 
